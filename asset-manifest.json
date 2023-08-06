@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-git-flow/static/css/main.e6c13ad2.css",
+    "main.js": "/test-git-flow/static/js/main.f0f5a340.js",
+    "index.html": "/test-git-flow/index.html",
+    "main.e6c13ad2.css.map": "/test-git-flow/static/css/main.e6c13ad2.css.map",
+    "main.f0f5a340.js.map": "/test-git-flow/static/js/main.f0f5a340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0f5a340.js"
+  ]
+}
