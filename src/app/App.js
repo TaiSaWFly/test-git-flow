@@ -11,7 +11,7 @@ function App() {
     console.log(process.env.REACT_APP_SKPROD);
   }
 
-  return <div>Hello is run to GH actions git branch production</div>;
+  return <div>Hello is run to GH actions git branch production edddit</div>;
 }
 
 export default App;
