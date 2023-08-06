@@ -20,8 +20,3 @@ jobs:
         env:
           REACT_APP_SKDEV: ${{ secrets.REACT_APP_SKDEV }}
           REACT_APP_SKPROD: ${{ secrets.REACT_APP_SKPROD }}
-
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v4
-        with:
-          folder: build
