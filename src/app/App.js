@@ -11,7 +11,7 @@ function App() {
     console.log(process.env.REACT_APP_SKPROD);
   }
 
-  return <div>Hello is run to GH actions master</div>;
+  return <div>Hello is run to GH actions master EDIT </div>;
 }
 
 export default App;
