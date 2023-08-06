@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-git-flow/static/css/main.e6c13ad2.css",
-    "main.js": "/test-git-flow/static/js/main.2c9f6840.js",
+    "main.js": "/test-git-flow/static/js/main.e7afb96b.js",
     "index.html": "/test-git-flow/index.html",
     "main.e6c13ad2.css.map": "/test-git-flow/static/css/main.e6c13ad2.css.map",
-    "main.2c9f6840.js.map": "/test-git-flow/static/js/main.2c9f6840.js.map"
+    "main.e7afb96b.js.map": "/test-git-flow/static/js/main.e7afb96b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2c9f6840.js"
+    "static/js/main.e7afb96b.js"
   ]
 }
